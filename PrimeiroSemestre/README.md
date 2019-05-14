@@ -1,7 +1,8 @@
-#Ciência da Computação - [UNIFEG](https://www.unifeg.edu.br/webacademico/site/descricaocurso.jsp?codigocurso=101)
+### **Período 1**
 
-Duração do Curso: 8 semestres.
-
-Carga Horária: 3220 h/a
-
-Renovação de Reconhecimento: **Portaria MEC nº 286, de 21 de dezembro de 2012** O curso de Bacharelado em Ciência da Computação do Centro Universitário da Fundação Educacional Guaxupé foi criado com o objetivo de atender à grande demanda por profissionais da área de informática, nesta região, marcada, nas últimas décadas pelo crescimento populacional e pelo grande desenvolvimento econômico, sobretudo da agroindústria. 
+1.CÁLCULO 1
+2.FUNDAMENTOS DA FÍSICA PARA COMPUTAÇÃO
+3.INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO
+4.LÓGICA DE PROGRAMAÇÃO E ALGORITMOS
+5.Metodologia da Pesquisa Cientifica
+6.RELAÇÕES SOCIAIS ÉTNICAS E MEIO AMBIENTE 
